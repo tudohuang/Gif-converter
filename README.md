@@ -17,6 +17,9 @@ This is a GUI application that enables conversion between MP4 video files and GI
 5. Click the "Browse save path" button to select the directory where the converted file should be saved.
 6. Click the "Convert" button to start the conversion. The progress bar below will show the progress of the conversion.
 
+![Converter](https://github.com/tudohuang/Gif-converter/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-08-04%20152456.png)
+
+
 ## Installation
 Make sure you have Python installed on your machine. If not, download and install Python from the official website. 
 
