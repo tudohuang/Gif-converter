@@ -30,10 +30,6 @@ pip install moviepy imageio tkinter ttkthemes configparser threading
 ```
 
 You also need to have FFMPEG installed on your system as it's a dependency for moviepy. You can download it from the official FFMPEG website.
-
-## Configuration
-The application reads from a configuration file (`settings.ini`) to get the default download directory. You can modify this file to change the default directory.
-
 ## Contributions
 Contributions are always welcome. Please open a new issue if you find a bug or have suggestions for improvements.
 
